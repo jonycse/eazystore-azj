@@ -1,2 +1,17 @@
 .DS_Store
 data/
+
+bin
+logs/
+.settings/
+target/
+.idea
+*\.project
+*\.classpath
+*\.history
+.cache-main
+.cache-tests
+*\.DS_Store
+\.metadata
+*.iml
+/target-eclipse/
