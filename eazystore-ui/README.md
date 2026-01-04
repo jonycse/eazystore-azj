@@ -14,6 +14,11 @@ Ensure you have the following installed:
 
 ---
 
+## Commands
++ npm install
++ npm run dev
++ Application will run on: http://localhost:5173/
+
 ## 🚀 **Installation**
 To install the required FontAwesome packages, run the following commands:
 
