@@ -3,6 +3,8 @@
 ## DB setup
 + Install docker
 + Download and install [sqlectron][1] check __sqlectron-mySQL.png__
++ Run schema in resource/sql/schema.sql to create tables
++ Run seed in resource/sql/data.sql to insert sample data
 
 
 
